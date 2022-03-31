@@ -11,12 +11,12 @@ FDR correction
 
 ### 2_univariate_analysis_for_regional_structural_measures
 
-Calculating the associations of 14 PGSs with regional CSA and CT based on DK atlas
+Calculating the associations of 14 PGSs with regional CSA and CT based on DK atlas.
 FDR correction
 
 ### 3_univariate_analysis_for_functional_measures
 
-Calculating the associations of 14 PGSs with functional measures
+Calculating the associations of 14 PGSs with functional measures.
 FDR correction
 
 ### 4_PLS_analysis.ipynb
