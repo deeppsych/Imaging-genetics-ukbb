@@ -23,4 +23,6 @@ FDR correction
 
 Using PLS method to decompose the genetic relationships of mental health and cognition with brain structure and function.
 
+### 5_PLS_analysis_with_permutation_test.ipynb
 
+Using permutation test in PLS model.
